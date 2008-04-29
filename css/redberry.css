@@ -1,0 +1,30 @@
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 14px;
+    color: black;
+}
+
+#banner {
+    width: 100%;
+    border-bottom: 1.5em solid #99001A;
+    color: #CFCFCF;
+}
+
+#main {
+    width: 100%;
+    border-top: 1em solid #CFCFCF;
+}
+
+.post {
+    padding-left: .5em;
+    padding-bottom: .5em;
+    margin-bottom: .5em;
+    margin-top: .5em;
+    border-left: .5em solid #ddd;
+    border-bottom: 1px solid #888;
+    width: 40%;
+}
+
+.post-body {
+    font-family: verdana, arial, sans-serif;
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0"?> 
+<paths>
+<path name="/welcome">
+    <handler name="FrontPageHandler" />
+</path>
+</paths>

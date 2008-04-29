@@ -1,0 +1,14 @@
+<?xml version="1.0"?> 
+<redberry_config>
+<property name="base_path">/</property>
+<property name="base_dir">/path/to/redberry</property>
+<property name="base_url">http://redberry.yourhost.net</property>
+<property name="image_path">http://redberry.yourhost.net/images</property>
+<property name="css_path">http://redberry.yourhost.net/css</property>
+<property name="log_dir">/path/to/redberry/logs</property>
+<property name="paths_file">/path/to/redberry/conf/conf.paths.xml</property>
+<property name="db_host">mysql.yourhost.net</property>
+<property name="db_name">db_name</property>
+<property name="db_user">db_user</property>
+<property name="db_pass">db_pass</property>
+</redberry_config>
